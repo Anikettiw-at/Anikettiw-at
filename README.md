@@ -40,5 +40,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt = "pt5602238" />
   </a>
 </p>
-[![](https://visitcount.itsvg.in/api?id=andreschoque3&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
