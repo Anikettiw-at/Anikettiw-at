@@ -1,44 +1,64 @@
-<h1 align = "center"> Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50">, I am Aniket Tiwari </h1>
-<h3 align = "center"> I am pursuing Bachelor of Technology in Computer Science and Engineering from Institute of Engineering and Technology, Lucknow! </h3>
+
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px" /> I'm Aniket Tiwari</h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer | 🤖 AI Integration Enthusiast</h3>
 
 ---
-<h2 align="center">Languages</h2>
+
+<img align="right" alt="coding" width="420" height="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
+- 🌍 I'm from **Lucknow, India**  
+- 💻 Portfolio: [MyPortfolio](https://portreact-theta.vercel.app/)  
+- 📫 Email: [pt5602238@gmail.com](mailto:pt5602238@gmail.com)  
+- 🔭 Currently building MERN projects with AI integration  
+- 🌱 Learning: **Next.js**, **TypeScript**, **GenAI**  
+- ⚡ Fun fact: My day runs on **code**, **curiosity**, and **Chai** ☕
+
+---
+
+### 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-<h2 align="center">Database</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-<h2 align="center">Integrated Development Environments</h2>
-<p align="center"> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/> 
-  </a>
-  <a href="https://www.sublimetext.com/" target="_blank">
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime"/> 
-  </a>
-</p>
-<h2 align="center">Competitive Programming</h2>
-<p align="center"> 
-  <a href="https://codeforces.com/profile/At_tiwari078" target="_blank">
-    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef"/> 
-  </a>
-  <a href="https://codeforces.com/profile/At_tiwari078" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/> 
-  </a>
-</p>  
-<h2 align = "center"> 📫 Reach me on 📫 </h2>
-<p align = "center"> 
-  <a  href = "https://www.linkedin.com/in/aniket-tiwari-51040a294/" target = "_blank"> 
-    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "-aniket-tiwari" />
-  </a>
-  <a href = "mailto:pt5602238@gmail.com" target = "_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt = "pt5602238" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,ts,nextjs,git,github,jwt,bcrypt,cloudinary,vercel" />
 </p>
 
 ---
+
+### 🚀 Projects Highlight
+
+#### 💡 AI-Powered Coding Platform
+- Developed a LeetCode-style platform enhanced with Google Gen AI.  
+- Features smart hints, real-time code evaluation, and AI-powered solutions.  
+- **Tech Used:** MERN, JWT, Redis, Bcrypt, Google Gen AI API, Cloudinary
+
+#### 💼 Job Portal System
+- Role-based job portal for recruiters and job seekers with secure login.  
+- Resume/image upload using Multer and Cloudinary, JWT for auth.  
+- **Tech Used:** MERN, JWT, Bcrypt, Multer, Cloudinary, DataUriParser
+
+---
+
+### 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anikettiw-at)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-tiwari-51040a294/)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anikettiw-at&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Anikettiw-at&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikettiw-at&layout=compact&theme=radical" />
+</div>
+
+
+### ✨ Visitors Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anikettiw-at&style=flat-square&color=3382ed" alt="visitor badge" />
+</p>
+
+
