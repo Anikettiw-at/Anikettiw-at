@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="420" height="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 🌍 I'm from **Lucknow, India**  
-- 💻 Portfolio: [MyPortfolio](https://portreact-theta.vercel.app/)  
+- 💻 Portfolio: [MyPortfolio](https://portfoli2026.vercel.app/)  
 - 📫 Email: [pt5602238@gmail.com](mailto:pt5602238@gmail.com)  
 - 🔭 Currently building MERN projects with AI integration  
 - 🌱 Learning: **Next.js**, **TypeScript**, **GenAI**  
